@@ -49,14 +49,14 @@ body {
 a {
   text-decoration:none;
   transition:0.25s;
-  color:#b7ddff;
+  color:#248ff0;
   border-bottom:0.7px solid rgba(199,199,199,0.3);
 }
 
 a:hover {
   text-decoration:none;
   border-bottom:0.75px solid #a1d0fc;
-  color:#b7ddff;
+  color:#248ff0;
 }
 
 .heading {
@@ -80,7 +80,7 @@ a:hover {
 }
 
 .desc {
-  color:#9aa9b6;
+  color:#2d3033;
   margin:auto;
 }
 
