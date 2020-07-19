@@ -3,7 +3,8 @@ img {
 }
 
 body {
-  background-color: #fefefe
+  background-color: #fefefe;
+  color: black;
   font-family: Hack, monospace;
 }
 
