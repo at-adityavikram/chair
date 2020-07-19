@@ -3,7 +3,7 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: #222222;
+  rgb(148, 143, 143);
 }
 
 ::-webkit-scrollbar-thumb {
