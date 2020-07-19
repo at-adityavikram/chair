@@ -1,2 +1,2 @@
-# snowflake-project.github.io
+# chair.github.io
 landing page
