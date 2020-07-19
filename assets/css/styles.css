@@ -3,7 +3,7 @@ img {
 }
 
 body {
-  background-image:linear-gradient(#1a1d21, #24292E);
+  background-color: rgb (245, 245, 245);
   font-family: Hack, monospace;
 }
 
