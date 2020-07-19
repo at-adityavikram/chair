@@ -45,13 +45,13 @@ hr{
   background-color: #222222
 }
 
-#overlayText {
+.overlayText {
  position:absolute;
   top:30%;
   left:20%;
   z-index:1;
 }
 
-#topText {
+.topText {
   align-self: center;
 }
