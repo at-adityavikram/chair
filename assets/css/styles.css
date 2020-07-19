@@ -7,6 +7,12 @@ body {
   background-color: #948f8f;
   color: black;
   font-family: Hack, monospace;
+  position: relative;
+     -webkit-animation-name: smoothie;
+     -webkit-animation-duration: 2.5s;
+  animation-name: smoothie;
+  animation-duration: 2.5s;
+  transition: ease-in-out 0.2s;
 }
 
 @media (min-width: 300px) {
